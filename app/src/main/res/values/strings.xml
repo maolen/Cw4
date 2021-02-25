@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Great App</string>
+    <string name="call">CALL</string>
+    <string name="camera">Camera</string>
+</resources>
